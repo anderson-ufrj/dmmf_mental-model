@@ -1,0 +1,54 @@
+{
+  "refactor_patterns": {
+    "total_refactors": 1172,
+    "refactor_percentage": 41.87209717756342,
+    "num_clusters": 152,
+    "avg_cluster_size": 6.427631578947368,
+    "max_cluster_size": 68,
+    "clustered_commits": 977,
+    "clustered_percentage": 83.3617747440273,
+    "isolated_refactors": 195,
+    "isolated_percentage": 16.638225255972696,
+    "long_gap_refactors": 13
+  },
+  "bert_sentiment": {
+    "positive_count": 504,
+    "negative_count": 2295,
+    "positive_pct": 18.006430868167204,
+    "negative_pct": 81.9935691318328,
+    "sentiment_by_type": {
+      "positive_pct": {
+        "feat": 50.33,
+        "fix": 4.83,
+        "docs": 16.52,
+        "refactor": 11.54,
+        "test": 5.26,
+        "chore": 3.66,
+        "other": 16.57
+      },
+      "avg_confidence": {
+        "feat": 0.92,
+        "fix": 0.98,
+        "docs": 0.93,
+        "refactor": 0.96,
+        "test": 0.96,
+        "chore": 0.99,
+        "other": 0.97
+      }
+    }
+  },
+  "failed_interpretations": {
+    "night_vs_day_msg_length": {
+      "night_avg": 487.84787018255577,
+      "day_avg": 334.5,
+      "p_value": 0.09114548478341436,
+      "rejected": true
+    },
+    "weekend_feat_rate": {
+      "weekend": 11.11111111111111,
+      "weekday": 17.047733654231852,
+      "p_value": 0.010312542123753985,
+      "rejected": false
+    }
+  }
+}
