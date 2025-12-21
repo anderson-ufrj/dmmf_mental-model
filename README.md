@@ -1,10 +1,12 @@
 # DMMF Replication Package
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18012186.svg)](https://doi.org/10.5281/zenodo.18012186)
+
 Replication package for the paper:
 
 > **From Commits to Cognition: A Mixed-Methods Framework for Inferring Developer Mental Models from Repository Artifacts**
 
-Published: arXiv, December 2025
+Published: Zenodo, December 2025 | DOI: [10.5281/zenodo.18012186](https://doi.org/10.5281/zenodo.18012186)
 
 ## Overview
 
