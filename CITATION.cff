@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "DMMF Replication Package"
+abstract: "Replication package for 'From Commits to Cognition: A Mixed-Methods Framework for Inferring Developer Mental Models from Repository Artifacts'. Contains data, scripts, and figures for replicating the Developer Mental Model Framework (DMMF) study."
+authors:
+  - family-names: "Silva"
+    given-names: "Anderson Henrique"
+    name-particle: "da"
+    orcid: "https://orcid.org/0000-0002-5139-0980"
+    affiliation: "Universidade Federal do Rio de Janeiro (UFRJ)"
+version: "1.0.0"
+date-released: "2025-12-21"
+license: MIT
+repository-code: "https://github.com/anderson-ufrj/dmmf_mental-model"
+url: "https://doi.org/10.5281/zenodo.18012186"
+doi: "10.5281/zenodo.18012186"
+keywords:
+  - developer mental models
+  - mining software repositories
+  - sentiment analysis
+  - cognitive software engineering
+  - BERT
+  - thematic analysis
+  - developer cognition
+  - commit analysis
+preferred-citation:
+  type: article
+  title: "From Commits to Cognition: A Mixed-Methods Framework for Inferring Developer Mental Models from Repository Artifacts"
+  authors:
+    - family-names: "Silva"
+      given-names: "Anderson Henrique"
+      name-particle: "da"
+      orcid: "https://orcid.org/0000-0002-5139-0980"
+  doi: "10.5281/zenodo.18012186"
+  year: 2025
+  month: 12
+  publisher:
+    name: "Zenodo"

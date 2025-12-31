@@ -90,15 +90,23 @@ Sentiment analysis uses `distilbert-base-uncased-finetuned-sst-2-english` from H
 
 ## Citation
 
+If you use this replication package, please cite:
+
 ```bibtex
-@article{silva2025commits,
-  title={From Commits to Cognition: A Mixed-Methods Framework for
-         Inferring Developer Mental Models from Repository Artifacts},
-  author={Silva, Anderson Henrique da},
-  journal={arXiv preprint},
-  year={2025}
+@software{silva2025dmmf,
+  author       = {Silva, Anderson Henrique da},
+  title        = {{From Commits to Cognition: A Mixed-Methods Framework
+                   for Inferring Developer Mental Models from Repository
+                   Artifacts}},
+  month        = dec,
+  year         = 2025,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.18012186},
+  url          = {https://doi.org/10.5281/zenodo.18012186}
 }
 ```
+
+Or use the [CITATION.cff](CITATION.cff) file for automatic citation import.
 
 ## License
 
